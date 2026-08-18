@@ -1,9 +1,0 @@
-title: Vanilla Weapon Stats
-originalAuthor: Malaionus
-description: Reverts changed weapons to their original pre-Final Mix stats
-dependencies: 
-assets:
-- name: btltbl.bin
-  method: copy
-  source:
-  - name: btltbl.bin
